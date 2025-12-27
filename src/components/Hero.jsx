@@ -20,7 +20,7 @@ export default function Hero() {
         <MotionWrapper>
           <h1 className="text-5xl md:text-6xl font-extrabold text-white drop-shadow-xl">
             Premium Waterproofing &  
-            <br />Construction Chemical Solutions
+            <br />Manufactureres
           </h1>
 
           <p className="mt-5 text-lg text-gray-200 max-w-2xl mx-auto">
