@@ -1,0 +1,7 @@
+export default function Footer() {
+  return (
+    <footer className="bg-blue-900 text-white p-6 text-center">
+      <p>© 2025 Indo-Prime Industries | All Rights Reserved</p>
+    </footer>
+  );
+}
